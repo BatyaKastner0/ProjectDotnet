@@ -1,0 +1,27 @@
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\appsettings.json
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Weight Watchers.exe
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Weight Watchers.deps.json
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Weight Watchers.runtimeconfig.json
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Weight Watchers.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Weight Watchers.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.AssemblyInfo.cs
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\scopedcss\bundle\Weight Watchers.styles.css
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.csproj.CopyComplete
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\refint\Weight Watchers.dll
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.pdb
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\Weight Watchers.genruntimeconfig.cache
+Y:\Groups\Group_2\קסטנר  בתיה\ProjectDotnet\ProjectDotnet\obj\Debug\net6.0\ref\Weight Watchers.dll

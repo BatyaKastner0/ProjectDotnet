@@ -1,0 +1,107 @@
+Y:\Groups\Group_2\קסטנר  בתיה\פרויקט סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\קסטנר  בתיה\פרויקט סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\קסטנר  בתיה\פרויקט סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\קסטנר  בתיה\פרויקט סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+Y:\Groups\Group_2\קסטנר  בתיה\פרויקט סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.pdb
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.runtimeconfig.json
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.genruntimeconfig.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.runtimeconfig.json
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.genruntimeconfig.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.runtimeconfig.json
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.genruntimeconfig.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.deps.json
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.runtimeconfig.json
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.AssemblyInfo.cs
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.csproj.CopyComplete
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\refint\Subscriber.Core.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.pdb
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\Subscriber.Core.genruntimeconfig.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Subscriber.Core\obj\Debug\net6.0\ref\Subscriber.Core.dll

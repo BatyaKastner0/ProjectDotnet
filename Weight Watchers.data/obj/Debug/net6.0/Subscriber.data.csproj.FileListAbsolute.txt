@@ -1,0 +1,84 @@
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.deps.json
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.pdb
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\refint\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.pdb
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\ref\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.deps.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.runtimeconfig.json
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.AssemblyReference.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfoInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfo.cs
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\refint\Subscriber.data.dll
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.pdb
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.genruntimeconfig.cache
+Y:\Groups\Group_2\וייל  ברכה\דוטנט\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\ref\Subscriber.data.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.deps.json
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.runtimeconfig.json
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfo.cs
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\refint\Subscriber.data.dll
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.genruntimeconfig.cache
+C:\Users\user1\Downloads\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\ref\Subscriber.data.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.deps.json
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.runtimeconfig.json
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfo.cs
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\refint\Subscriber.data.dll
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.genruntimeconfig.cache
+C:\Users\user1\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\ref\Subscriber.data.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.deps.json
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.runtimeconfig.json
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfo.cs
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\refint\Subscriber.data.dll
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.genruntimeconfig.cache
+C:\Users\user1\Downloads\מנסות להחזיר למקור\Downloads\ניסיוניני\פרויקט סופי סופי\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\ref\Subscriber.data.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.deps.json
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.runtimeconfig.json
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\bin\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.AssemblyReference.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfoInputs.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.AssemblyInfo.cs
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.csproj.CoreCompileInputs.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\refint\Subscriber.data.dll
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.pdb
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\Subscriber.data.genruntimeconfig.cache
+C:\Users\user1\Downloads\מנצה\ProjectDotnet\Weight Watchers.data\obj\Debug\net6.0\ref\Subscriber.data.dll
